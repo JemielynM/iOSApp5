@@ -2,7 +2,7 @@
 //  iOSApp5App.swift
 //  iOSApp5
 //
-//  Created by Jemielyn Medina on 2026-07-12.
+//  Main entry point for the Media Moments application.
 //
 
 import SwiftUI
